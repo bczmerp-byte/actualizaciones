@@ -1,0 +1,14 @@
+{
+  "formato": "blzc-ultima",
+  "version": "0.9.0",
+  "fecha": "2026-10-13",
+  "notas": [
+    "Nuevo nombre: BCZM ERP, de BCZM SOLUCIONES CONTABLES S.A.C.",
+    "Nuevo logo en el ERP, el Panel del servidor y la app",
+    "Tus datos, empresas, usuarios y licencia siguen igual"
+  ],
+  "paquete": "paquetes/blzc-0.9.0.blzcupd",
+  "sha256": "a375147abac0ff6f6fc3a05db8fd69c8ca38b6c3e54ae60575001f99538b022d",
+  "bytes": 1932261,
+  "firma": "BefYlqERcd+bp9PM7V/oUyhygiEAXX7HNfezY13kYjwfhuqEzItnKE7CiwQKK2EibEuj+cFinAvxDLrlDw3ABA=="
+}
