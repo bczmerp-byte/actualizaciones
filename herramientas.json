@@ -1,0 +1,154 @@
+{
+  "formato": "bczm-herramientas",
+  "actualizado": "2026-11-25",
+  "nota": "Solo versiones y notas. Los archivos se entregan por WhatsApp al cliente con licencia.",
+  "productos": {
+    "SUITE": {
+      "nombre": "Suite contable BCZM",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "PLAME": {
+      "nombre": "Carga masiva PLAME",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "SIRE": {
+      "nombre": "Conciliador SIRE",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "BANCOS": {
+      "nombre": "Conciliador bancario",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "COSTEO": {
+      "nombre": "Costeo de importaciones",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "CALC": {
+      "nombre": "Calculadoras laborales",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial: autoguardado, barra de empresa y formato único en Excel"
+      ]
+    },
+    "M01": {
+      "nombre": "Módulo M01",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M02": {
+      "nombre": "Módulo M02",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M05": {
+      "nombre": "Módulo M05",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M06": {
+      "nombre": "Módulo M06",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M09": {
+      "nombre": "Módulo M09",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M10": {
+      "nombre": "Módulo M10",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M11": {
+      "nombre": "Módulo M11",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M12": {
+      "nombre": "Módulo M12",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M14": {
+      "nombre": "Módulo M14",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M15": {
+      "nombre": "Módulo M15",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M03": {
+      "nombre": "Módulo M03",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M04": {
+      "nombre": "Módulo M04",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M07": {
+      "nombre": "Módulo M07",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M08": {
+      "nombre": "Módulo M08",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    },
+    "M13": {
+      "nombre": "Módulo M13",
+      "version": "2026.11.25",
+      "notas": [
+        "Versión inicial"
+      ]
+    }
+  }
+}
